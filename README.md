@@ -10,7 +10,7 @@
 
 (Disponível para colaborações, desafios e oportunidades de crescimento na área!)
 
-🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/lucas-santana-104749336/) | [WhatsApp](https://api.whatsapp.com/send/?phone=71992475164&text&type=phone_number&app_absent=0) | [Portfólio]
+🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/lucas-santana-104749336/) | [WhatsApp](https://api.whatsapp.com/send/?phone=71992475164&text&type=phone_number&app_absent=0) 
 
 <p align="left">
     <a href="https://github.com/lucasbrayte?tab=repositories">
