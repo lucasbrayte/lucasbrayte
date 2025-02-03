@@ -10,7 +10,7 @@
 
 (Disponível para colaborações, desafios e oportunidades de crescimento na área!)
 
-🔗 Conecte-se comigo: [LinkedIn] | [GitHub] | [Portfólio]
+🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/lucas-santana-104749336/) | [WhatsApp](https://api.whatsapp.com/send/?phone=71992475164&text&type=phone_number&app_absent=0) | [Portfólio]
 
 <p align="left">
     <a href="https://github.com/lucasbrayte?tab=repositories">
@@ -136,3 +136,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasbrayte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
